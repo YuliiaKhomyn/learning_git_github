@@ -3,3 +3,8 @@
 
 # Ignore log files
 *.log
+# Ignore target directory
+target/
+
+# Ignore bin directory
+bin/
